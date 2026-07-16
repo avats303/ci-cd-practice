@@ -10,6 +10,6 @@ public class DemoController {
 
     @GetMapping
     public String welcome(){
-        return "Welcome to the CI/CD leaning";
+        return "Welcome to the CI/CD learning";
     }
 }
